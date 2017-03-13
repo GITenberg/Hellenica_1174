@@ -1,5 +1,5 @@
 _repo: Hellenica_1174
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Dakyns, Henry Graham
@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '544'
     url: http://www.gutenberg.org/2009/agents/544
     wikipedia: http://en.wikipedia.org/wiki/Henry_Graham_Dakyns
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Xenophon
@@ -23,6 +26,8 @@ creator:
 description: I. Hellenica, Books I-V.--[II] Hellenica, Books VI & VII. Anabasis, Books
   I-III.--[III] Anabasis, Books IV-VII. Symposium and Apology / with an English translation
   by O.J. Todd.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1174#Hellenica
 gutenberg_issued: '1998-01-01'
 gutenberg_type: Text
 identifiers:
